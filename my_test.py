@@ -15,4 +15,4 @@ def test_close_browser():
     browser.close()
     browser.quit()
 
-#Commit succeeded, hurr
+#Commit succeeded, hurry
