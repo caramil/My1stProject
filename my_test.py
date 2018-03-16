@@ -14,3 +14,5 @@ def test_open_url():
 def test_close_browser():
     browser.close()
     browser.quit()
+
+#Commit succeeded, hurry
